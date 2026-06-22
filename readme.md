@@ -11,6 +11,7 @@
 | --- | --- | --- |
 | Pixel2Motion | [![GitHub][github-badge]](https://github.com/nolangz/pixel2motion) | AI Logo Animation Skill |
 | Awesome LLM Apps | [![GitHub][github-badge]](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agent & RAG apps you can actually run |
+| OpenMontage | [![GitHub][github-badge]](https://github.com/calesthio/OpenMontage) | The first open-source, agentic video production system. |
 
 
 ### Memory
@@ -21,6 +22,7 @@
 | Memvid | [![GitHub][github-badge]](https://github.com/memvid/memvid) | Memvid is a single-file memory layer for AI agents with instant retrieval and long-term memory. |
 | Obsidian-skills | [![GitHub][github-badge]](https://github.com/kepano/obsidian-skills) | Agent Skills for use with Obsidian. |
 | Headroom | [![GitHub][github-badge]](https://github.com/headroomlabs-ai/headroom) | Headroom compresses everything your AI agent reads — tool outputs, logs, RAG chunks, files, and conversation history — before it reaches the LLM. Same answers, fraction of the tokens. |
+| codebase-memory-mcp | [![GitHub][github-badge]](https://github.com/DeusData/codebase-memory-mcp) | The fastest and most efficient code intelligence engine for AI coding agents. |
 
 
 ### Harness
