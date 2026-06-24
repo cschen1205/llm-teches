@@ -33,5 +33,5 @@
 | <img src="assets/openhands.png" alt="Agent Canvas" width="240">| [![GitHub][github-badge]](https://github.com/OpenHands/agent-canvas) | The self-hosted developer control center for coding agents and automations. |
 | <img src="assets/dify.webp" alt="Dify" width="240"> | [![GitHub][github-badge]](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more. |
 | <img src="assets/mini-swe-agent-banner.svg" alt="mini SWE-agent" width="240"> | [![GitHub][github-badge]](https://github.com/SWE-agent/mini-swe-agent/) | The minimal AI software engineering agent. |
-| <img src="assets/flowise_dark.svg" alt="FloWise" width="240"> | [![GitHub][github-badge]](https://github.com/flowiseai/flowise) | Build AI Agents, Visually |
+| <img src="assets/flowise_white.svg" alt="FloWise" width="240"> | [![GitHub][github-badge]](https://github.com/flowiseai/flowise) | Build AI Agents, Visually |
 | <img src="assets/odysseus-wordmark.png" alt="Odysseus" width="240"> | [![GitHub][github-badge]](https://github.com/pewdiepie-archdaemon/odysseus) | A self-hosted AI workspace for chat, agents, research, documents, email, notes, calendar, and local model workflows. |
